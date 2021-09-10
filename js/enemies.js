@@ -17,8 +17,8 @@ window.content.enemies = [
         name: 'Young Wolf',
         portrait: 'wolf',
         portraitId: 1,
-        maxHp: 60,
-        hp: 60,
+        maxHp: 20,
+        hp: 20,
         level: null,
         poolLevel: 0,
         type: 'normal', // 'normal', 'rare', 'rareelite', 'elite', 'boss'
